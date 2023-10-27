@@ -1,0 +1,41 @@
+/* Standard css */
+.w-30 {
+  min-width: 30%;
+}
+.w-30 {
+  min-width: 50%;
+}
+.w-60 {
+  min-width: 60%;
+}
+.w-70 {
+  min-width: 70%;
+}
+.h-100 {
+  height: 100vh;
+}
+.h-90 {
+  height: 90vh;
+}
+.h-80 {
+  height: 80vh;
+}
+.h-70 {
+  height: 70vh;
+}
+.h-60 {
+  height: 60vh;
+}
+.h-50 {
+  height: 50vh;
+}
+.h-40 {
+  height: 40vh;
+}
+.h-30 {
+  height: 30vh;
+}
+/* End */
+/* *Conversation List */
+
+/* *End */
